@@ -1,8 +1,21 @@
-# React + Vite
+# Bank App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based fictional bank landing page showcasing modern web development skills. This project highlights responsive design, clean UI/UX, and modular component-based architecture.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features  
+- 🚀 **Responsive Design**: Seamlessly adapts to different screen sizes and devices.  
+- 🎨 **Interactive and Modern UI/UX**: Clean, visually appealing layout for an optimal user experience.  
+- ⚡ **Reusable Components**: Modular React components for maintainability and scalability.  
+
+---
+
+## Technologies Used  
+- **React**: For building the dynamic user interface.  
+- **Vite**: For fast development and optimized build setup.  
+- **Tailwind CSS**: For responsive and customizable styling.  
+
+---
+
+This project demonstrates practical expertise in crafting a professional-grade landing page with modern technologies.
